@@ -1,60 +1,80 @@
-# Hi 👋, I'm Sahin
+<h1 align="center">Hi 👋, I'm Şahin</h1>
 
-**An Industrial Engineer from Turkey**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72E91&center=true&vCenter=true&width=500&lines=Industrial+Engineer;Data+Analyst+%7C+Python+Developer;Process+Improvement+Enthusiast;Finance+%26+AI+Explorer" alt="Typing Animation" />
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmet-%C5%9Fahin-karakaya-95300b24a/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/aahmet.karakaya" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/sahinn0" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
 ## 🛠 Languages and Tools
-
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,linux,csharp,azure,postgresql,github,docker" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/sahinn0/ie_researcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahinn0&repo=ie_researcher&theme=radical" />
+  </a>
+  <a href="https://github.com/sahinn0/crypto-trading-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahinn0&repo=crypto-trading-bot&theme=radical" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <a href="https://github.com/sahinn0/textile-quality-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahinn0&repo=textile-quality-analysis&theme=radical" />
+  </a>
+  <a href="https://github.com/sahinn0/product-recommendation-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahinn0&repo=product-recommendation-ai&theme=radical" />
+  </a>
 </p>
-
 
 ---
 
-🎉 **Thanks for Visiting My Profile!**
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinn0&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahinn0&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 Industrial Engineering Student from Turkey  
+- 📊 Passionate about **Data Analysis, Simulation & Optimization**  
+- 💻 Building projects in **Python, SQL, and Simulation Tools**  
+- 📈 Interested in **Finance, Process Improvement & AI**  
+- 🌍 Open for **remote internships & collaborations**  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahinn0&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="sahinn0" />
+</p>
+
+---
+⭐️ From [sahinn0](https://github.com/sahinn0)
