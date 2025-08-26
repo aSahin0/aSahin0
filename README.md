@@ -30,27 +30,6 @@
 
 ---
 
-## 📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/sahinn0/ie_researcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahinn0&repo=ie_researcher&theme=radical" />
-  </a>
-  <a href="https://github.com/sahinn0/crypto-trading-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahinn0&repo=crypto-trading-bot&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sahinn0/textile-quality-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahinn0&repo=textile-quality-analysis&theme=radical" />
-  </a>
-  <a href="https://github.com/sahinn0/product-recommendation-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahinn0&repo=product-recommendation-ai&theme=radical" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -69,6 +48,22 @@
 - 💻 Building projects in **Python, SQL, and Simulation Tools**  
 - 📈 Interested in **Finance, Process Improvement & AI**  
 - 🌍 Open for **remote internships & collaborations**  
+
+---
+
+## 🎉 Fun Facts
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="70">  
+  <b>Love to explore Data & AI</b> 🤖  
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="70">  
+  <b>Coffee keeps me coding</b> ☕  
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="70">  
+  <b>Always learning & improving</b> 📚  
+</p>
 
 ---
 
