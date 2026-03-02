@@ -1,75 +1,80 @@
-<h1 align="center">Hi 👋, I'm Şahin</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F72E91&center=true&vCenter=true&width=600&lines=Merhaba,+Ben+%C5%9Eahin!+👋;Endüstri+Mühendisi+Adayı;Data+Analyst+%7C+Python+Developer;Süreç+İyileştirme+Meraklısı;Yapay+Zeka+ve+Finans+Kaşifi" alt="Typing Animation" />
+</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72E91&center=true&vCenter=true&width=500&lines=Industrial+Engineer;Data+Analyst+%7C+Python+Developer;Process+Improvement+Enthusiast;Finance+%26+AI+Explorer" alt="Typing Animation" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmet-%C5%9Fahin-karakaya-95300b24a/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/aahmet.karakaya" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/sahinn0" target="blank">
     <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://instagram.com/aahmet.karakaya" target="blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🛠 Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,linux,csharp,azure,postgresql,github,docker" />
-</p>
+### 🚀 Hakkımda
+
+Veriyi işleme, süreçleri optimize etme ve algoritma kurma tutkusuna sahip bir **Endüstri Mühendisliği** öğrencisiyim. Karmaşık problemleri Python ve veri analizi araçlarıyla çözmekten keyif alıyorum.
+
+- 🔭 **Şu an ne üzerinde çalışıyorum:** Veri Analizi, Simülasyon ve Optimizasyon projeleri.
+- ⚡ **Uzmanlık Alanlarım:** Yalın Üretim, Süreç İyileştirme ve Tedarik Zinciri Yönetimi.
+- 🐍 **Teknik Odak:** Python ile otomasyon ve AI uygulamaları geliştirme.
+- 🎯 **Hedefim:** Veri odaklı kararlarla endüstriyel sistemleri daha verimli hale getirmek.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinn0&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 🛠️ Yetkinlikler ve Araçlar
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahinn0&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,csharp,azure,linux,git,github,docker,vscode,postman" />
+</div>
 
----
-
-## 🚀 About Me
-- 🎓 Industrial Engineering Student from Turkey  
-- 📊 Passionate about **Data Analysis, Simulation & Optimization**  
-- 💻 Building projects in **Python, SQL, and Simulation Tools**  
-- 📈 Interested in **Finance, Process Improvement & AI**  
-- 🌍 Open for **remote internships & collaborations**  
+| Kategori | Araçlar / Teknolojiler |
+| :--- | :--- |
+| **Diller** | Python, SQL (MySQL, PostgreSQL), C# |
+| **Veri & DB** | MongoDB, Veri Analizi (Pandas, NumPy), Optimizasyon |
+| **Araçlar** | Git, Docker, Azure, Linux |
 
 ---
 
-## 🎉 Fun Facts
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="70">  
-  <b>Love to explore Data & AI</b> 🤖  
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="70">  
-  <b>Coffee keeps me coding</b> ☕  
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="70">  
-  <b>Always learning & improving</b> 📚  
-</p>
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinn0&theme=tokyonight" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahinn0&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahinn0&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="sahinn0" />
-</p>
+### ☕ Eğlenceli Bilgiler
+
+* 🤖 **AI Tutkusu:** Yapay zekanın endüstrideki geleceğini keşfetmeyi seviyorum.
+* ☕ **Kahve & Kod:** Kahve eşliğinde kod yazmak benim için en iyi dinlenme yöntemi.
+* 📚 **Sürekli Gelişim:** Her gün yeni bir şey öğrenmek ve "vibe coding" dünyasında yer almak favorim.
 
 ---
-⭐️ From [sahinn0](https://github.com/sahinn0)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahinn0&label=Profil+Görüntüleme&color=brightgreen&style=for-the-badge" alt="sahinn0" />
+</div>
+
+<div align="center">
+  <sub>⭐️ <a href="https://github.com/sahinn0">sahinn0</a> tarafından sevgiyle hazırlandı.</sub>
+</div>
