@@ -45,9 +45,9 @@ Veriyi işleme, süreçleri optimize etme ve algoritma kurma tutkusuna sahip bir
 
 ![Sahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahinn0&theme=tokyonight&cache_seconds=1800)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sahinn0&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahinn0&layout=compact&theme=tokyonight&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahinn0&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
