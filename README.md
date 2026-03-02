@@ -20,47 +20,46 @@
 
 Veriyi işleme, süreçleri optimize etme ve algoritma kurma tutkusuna sahip bir **Endüstri Mühendisliği** öğrencisiyim. Karmaşık problemleri Python ve veri analizi araçlarıyla çözmekten keyif alıyorum.
 
-- 🔭 **Şu an ne üzerinde çalışıyorum:** Veri Analizi, Simülasyon ve Optimizasyon projeleri.
-- ⚡ **Uzmanlık Alanlarım:** Yalın Üretim, Süreç İyileştirme ve Tedarik Zinciri Yönetimi.
-- 🐍 **Teknik Odak:** Python ile otomasyon ve AI uygulamaları geliştirme.
-- 🎯 **Hedefim:** Veri odaklı kararlarla endüstriyel sistemleri daha verimli hale getirmek.
+- 🎓 **Eğitim:** Endüstri Mühendisliği Bölümü.
+- 🔭 **Güncel Proje:** TUSAŞ LIFT UP 2025–2026 kapsamında "Yüzey İşlem Tesislerinde Optimizasyon ile Verimlilik Artışı" projesini yürütüyorum.
+- 🧠 **Kişilik:** INFP-T (Arabulucu).
+- 🐍 **Teknik Odak:** Python ile otomasyon, veri analizi ve AI uygulamaları.
+- 🎯 **Kısa Vadeli Hedef:** 5 Nisan'daki YDS sınavından 65+ puan almak.
 
 ---
 
 ### 🛠️ Yetkinlikler ve Araçlar
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,csharp,azure,linux,git,github,docker,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,csharp,azure,linux,git,github,docker,vscode" />
 </div>
 
 | Kategori | Araçlar / Teknolojiler |
 | :--- | :--- |
-| **Diller** | Python, SQL (MySQL, PostgreSQL), C# |
-| **Veri & DB** | MongoDB, Veri Analizi (Pandas, NumPy), Optimizasyon |
-| **Araçlar** | Git, Docker, Azure, Linux |
+| **Yazılım Dilleri** | Python, C#, SQL |
+| **Veri & Optimizasyon** | Pandas, NumPy, MySQL, PostgreSQL, MongoDB |
+| **Geliştirme Araçları** | Git, Docker, Azure, Linux |
 
 ---
 
 ### 📊 GitHub İstatistikleri
 
-### 📊 GitHub İstatistikleri
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinn0&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinn0&theme=tokyonight" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahinn0&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahinn0&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
 ---
 
 ### ☕ Eğlenceli Bilgiler
 
-* 🤖 **AI Tutkusu:** Yapay zekanın endüstrideki geleceğini keşfetmeyi seviyorum.
-* ☕ **Kahve & Kod:** Kahve eşliğinde kod yazmak benim için en iyi dinlenme yöntemi.
-* 📚 **Sürekli Gelişim:** Her gün yeni bir şey öğrenmek ve "vibe coding" dünyasında yer almak favorim.
+* ♟️ **Satranç:** Lichess üzerinden aktif olarak satranç oynamayı ve hamle analizleri yapmayı severim.
+* 🤖 **AI Tutkusu:** Yapay zekanın endüstrideki ve finansta geleceğini keşfetmeyi seviyorum.
+* 📈 **Gelişim:** Her gün 3000+ kalori hedefiyle fiziksel, kod yazarak ise zihinsel gelişimime odaklanıyorum.
 
 ---
 
@@ -69,5 +68,5 @@ Veriyi işleme, süreçleri optimize etme ve algoritma kurma tutkusuna sahip bir
 </div>
 
 <div align="center">
-  <sub>⭐️ <a href="https://github.com/sahinn0">sahinn0</a> tarafından sevgiyle hazırlandı.</sub>
+  <sub>⭐️ <a href="https://github.com/sahinn0">sahinn0</a> tarafından Ahmet Şahin Karakaya için hazırlanmıştır.</sub>
 </div>
