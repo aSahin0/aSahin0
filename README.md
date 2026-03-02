@@ -43,7 +43,7 @@ Veriyi işleme, süreçleri optimize etme ve algoritma kurma tutkusuna sahip bir
 
 ### 📊 GitHub İstatistikleri
 
-![Sahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahinn0&theme=tokyonight&cache_seconds=1800)
 
