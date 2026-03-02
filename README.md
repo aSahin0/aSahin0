@@ -43,23 +43,11 @@ Veriyi işleme, süreçleri optimize etme ve algoritma kurma tutkusuna sahip bir
 
 ### 📊 GitHub İstatistikleri
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinn0&theme=tokyonight" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahinn0&layout=compact&theme=tokyonight" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+![Sahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahinn0&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahinn0&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahinn0&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
