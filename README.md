@@ -100,10 +100,8 @@ Yaklaşım:     "Ölçemezsen, iyileştiremezsin."
 class Sahin:
     def __init__(self):
         self.role      = "Endüstri Mühendisi Adayı"
-        self.fuel      = "☕ Kahve"
-        self.motto     = "Veri konuşur, ben dinlerim."
         self.interests = ["AI & ML", "Finans", "Optimizasyon", "Otomasyon"]
-        self.fun_fact  = "Kahvesiz kod yazamam, kodsuz kahve içemem."
+        
 
     def daily_routine(self):
         return ["☕ Kahve", "💻 Kod", "📊 Analiz", "🔁 Tekrarla"]
@@ -119,6 +117,6 @@ class Sahin:
 
 <img src="https://komarev.com/ghpvc/?username=sahinn0&label=Profil+Görüntüleme&color=F72E91&style=flat-square" />
 
-<sub>⭐ <a href="https://github.com/sahinn0">sahinn0</a> tarafından sevgiyle hazırlandı</sub>
+<sub>⭐ <a href="https://github.com/sahinn0">sahinn0</a></sub>
 
 </div>
